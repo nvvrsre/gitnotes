@@ -1,0 +1,11 @@
+1. Initialize a Git Repository
+Command:
+   git init
+
+Explanation: Initializes a new, empty Git repository in your current folder. 
+This creates a .git directory that starts tracking your project’s changes. 
+
+Example: Suppose you create a folder my-app. Open terminal in that folder and run git init to start 
+tracking changes. 
+
+Mentor Insight: Use git init only once per project. If you clone a repository, this step is not needed.
